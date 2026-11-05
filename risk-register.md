@@ -8,8 +8,11 @@ This risk register is for a fictional warehouse or retail workplace.
 —
 **How Risks Were Rated**:
 •	Likelihood describes how likely the event is to happen.
+
 •	Impact describes how much harm the event could cause.
+
 •	Risks rated high in both areas should receive quick attention.
 
 **Priority Recommendation**
+
 The organization should address phishing first because employees regularly receive texts and emails, and one successful attack could expose passwords, payroll information, or other sensitive data.
