@@ -37,5 +37,17 @@ Use this checklist when an unexpected text, email, QR code, or login request app
 
 Record the report, notify the appropriate security contact, and tell the employee what to do next. Do not blame an employee for reporting a suspicious message.
 
+**Measuring Effectiveness**
+The organization can review:
+
+•	The number of suspicious messages reported
+
+•	The time between receiving and reporting a message
+
+•	Common questions employees ask
+
+•	Whether employees know where to report a concern
+
+Review the results monthly and update the checklist when employees need clearer instructions.
 
 —
