@@ -1,6 +1,7 @@
 **Cyber Awareness Risk Register**
 
 This risk register is for a fictional warehouse or retail workplace.
+
 —
 
 <img width="612" height="479" alt="image" src="https://github.com/user-attachments/assets/42684f32-f407-4664-8153-54b269ee9632" />
