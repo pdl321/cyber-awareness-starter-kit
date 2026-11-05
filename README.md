@@ -1,3 +1,6 @@
+**—
+Cyber Awareness Starter Kit**
+
 **Purpose**
 This project provides simple cybersecurity guidance for employees in a fictional warehouse or retail workplace.
 
@@ -17,4 +20,4 @@ Do not scan the QR code or reply to the message. Report it to a supervisor or th
 **About the Author**
 I created this project while exploring CyberDeveloper Associate and governance, risk, and compliance career pathways.
 
-—
+**—**
