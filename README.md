@@ -10,9 +10,13 @@ An employee receives a text message asking them to scan a QR code and confirm pa
 **Questions to Ask**
 
 **•**	Was the message expected?
+
 **•**	Does the sender’s information look familiar?
+
 **•**	Is the message creating fear or urgency?
+
 **•**	Is it asking for a password or personal information?
+
 **•**	How can the request be verified using a trusted contact method?
 
 **First Recommendation**
