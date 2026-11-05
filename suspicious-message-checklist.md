@@ -1,6 +1,7 @@
 —
 
 **Suspicious Message Checklist**
+
 Use this checklist when an unexpected text, email, QR code, or login request appears.
 
 **Stop**
