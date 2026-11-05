@@ -1,13 +1,13 @@
 **—
 Cyber Awareness Starter Kit**
 
-**Purpose**
+**Purpose**:
 This project provides simple cybersecurity guidance for employees in a fictional warehouse or retail workplace.
 
-**Scenario**
+**Scenario**:
 An employee receives a text message asking them to scan a QR code and confirm payroll information. The message creates urgency and may be an attempt to steal login or personal information.
 
-**Questions to Ask**
+**Questions to Ask**:
 
 **•**	Was the message expected?
 
@@ -19,10 +19,10 @@ An employee receives a text message asking them to scan a QR code and confirm pa
 
 **•**	How can the request be verified using a trusted contact method?
 
-**First Recommendation**
+**First Recommendation**:
 Do not scan the QR code or reply to the message. Report it to a supervisor or the organization’s designated security contact.
 
-**About the Author**
+**About the Author**:
 I created this project while exploring CyberDeveloper Associate and governance, risk, and compliance career pathways.
 
 **—**
