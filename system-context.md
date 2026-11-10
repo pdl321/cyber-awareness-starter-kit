@@ -1,6 +1,9 @@
 My exact KC7 username: **PIEDELEEUW**
+
 Date I finished How to Play KC7: **10 November 2026**
+
 Investigation: A Rap Beef: An Intro to Security Investigations
+
 Date I finished the investigation: **10 November 2026**
 
 <img width="656" height="748" alt="image" src="https://github.com/user-attachments/assets/61dab9bb-73c2-4ed7-bedc-a793c2b5e126" />
