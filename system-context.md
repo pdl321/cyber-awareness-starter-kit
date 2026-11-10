@@ -10,7 +10,9 @@ Date I finished the investigation: **10 November 2026**
 <img width="660" height="851" alt="image" src="https://github.com/user-attachments/assets/3f51f299-44ec-4714-a312-d62e087c00a1" />
 
 My first prediction and how sure I was (0–100%): **100%**
-People who use this service: 
+
+People who use this service: Learners and Staff.
+
 Data and systems we need to protect:
 Parts I included in my design:
 Parts I left out of my design:
