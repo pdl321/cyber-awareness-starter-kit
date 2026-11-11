@@ -80,3 +80,16 @@ The main risks are incorrect advice, exposed personal information and missed sup
 | **Outages, spam or excessive requests** | Learners cannot access help, and staff face growing queues and additional manual work. |
 
 Data I would keep out of AI tools and public files:
+
+These categories reflect OWASP’s guidance on preventing sensitive information disclosure in AI applications.
+
+| Data to keep private | Examples |
+| --- | --- |
+| **Learner identifiers** | Names, email addresses, phone numbers, home addresses and learner numbers |
+| **Sensitive personal information** | Health conditions, disability details, government ID numbers, financial difficulties and payment details |
+| **Private learner records** | Grades, complaints, support histories and identifiable questions or conversations |
+| **Staff-only information** | Internal case notes, private contact details and confidential review discussions |
+| **Passwords and security secrets** | Passwords, API keys, access tokens, session cookies, encryption keys and database credentials |
+| **Confidential academy documents** | Unpublished policies, internal investigations, contracts and restricted program material |
+
+Also keep raw logs, database exports, backups and unredacted screenshots out of public files and AI uploads. They can contain personal information or credentials. Logs themselves should exclude secrets and unnecessary sensitive data.
