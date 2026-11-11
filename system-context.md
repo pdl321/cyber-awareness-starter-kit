@@ -20,7 +20,7 @@ Data and systems we need to protect:
 | Learner’s web request | Question, selected program, and any identifiers or contact details the form requests |
 | Free-text question | Personal or sensitive information the learner includes, even if the form does not request it |
 | Browser and network | IP address, request time, browser details, and authentication information, depending on implementation |
-| Approved information sources | Program descriptions, dates, fees, policies, document references and versions |
+| Approved information sources / Repositories | Program descriptions, dates, fees, policies, document references and versions |
 | Staff | Corrections, review decisions, notes and task updates |
 | AI provider | Generated reply and response metadata |
 
