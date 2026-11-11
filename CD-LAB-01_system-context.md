@@ -46,7 +46,7 @@ People who use this service: **Learners and Staff**.
 
 2. DNS Service Provider(s) + Defence service(s)
 
-3. Security Controls (Administrative, Technical, Physical)
+3. Security Controls (Administrative, Technical, Physical) related to the omitted design components 
 
 
 What this service should help people do:
