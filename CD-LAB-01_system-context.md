@@ -81,7 +81,7 @@ The main risks are incorrect advice, exposed personal information and missed sup
 
 Data I would keep out of AI tools and public files:
 
-These categories reflect OWASP’s guidance on preventing sensitive information disclosure in AI applications.
+These categories align well with OWASP’s guidance on preventing sensitive information disclosure in AI applications.
 
 | Data to keep private | Examples |
 | --- | --- |
