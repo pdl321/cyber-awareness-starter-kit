@@ -13,7 +13,7 @@ My first prediction and how sure I was (0–100%): **100%**
 
 People who use this service: **Learners and Staff**.
 
-Data and systems we need to protect: 
+**Data and systems we need to protect:** 
 
 | Data Source | Potential data |
 | --- | --- |
@@ -24,8 +24,29 @@ Data and systems we need to protect:
 | Staff | Corrections, review decisions, notes and task updates |
 | AI provider | Generated reply and response metadata |
 
-Parts I included in my design:
-Parts I left out of my design:
+**Parts I included in my design:**
+
+1. Learner
+
+2. Web client
+
+3. API
+
+4. AI provider
+
+5. Approved knowledge source
+
+6. Logging service
+
+7. Staff console
+
+**Parts I left out of my design:**
+
+1. Physical / Virtual infrastructure / Cloud Service Host(s)
+
+2. DNS Service Provider(s) + Defence service(s)
+
+
 What this service should help people do:
 What could go wrong for learners or staff:
 Data I would keep out of AI tools and public files:
