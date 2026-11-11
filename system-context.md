@@ -42,11 +42,41 @@ People who use this service: **Learners and Staff**.
 
 **Parts I left out of my design:**
 
-1. Physical / Virtual infrastructure / Cloud Service Host(s)
+1. Physical and/or Virtual hosting infrastructure and/or Cloud Service(s) (IaaS, SaaS, Paas)
 
 2. DNS Service Provider(s) + Defence service(s)
 
+3. Security Controls (Administrative, Technical, Physical)
+
 
 What this service should help people do:
+
+The service should help learners get accurate answers about BBR Academy’s programs and reach staff when they need personal assistance or help.
+
+It should help:
+- Learners: Submit questions and receive clear answers based on approved program information.
+
+- Staff: Review questions, check AI-drafted replies and handle cases requiring human judgment.
+
+- Staff: Track follow-up tasks so learner questions are resolved.
+
+- Service administrators: Identify mistakes or misuse through minimal, privacy-conscious logs.
+
+- The AI’s role is to assist with drafting. Authorised staff remain responsible for decisions requiring approval.
+
 What could go wrong for learners or staff:
+
+The main risks are incorrect advice, exposed personal information and missed support.
+
+| What could go wrong? | How learners or staff could be harmed |
+| --- | --- |
+| **Incorrect or outdated answers** | Learners misunderstand requirements or miss deadlines. Staff spend time correcting mistakes. |
+| **Personal information is exposed** | Questions or staff notes reach another learner, unauthorised staff or the AI provider unnecessarily. |
+| **A document manipulates the AI** | Hidden instructions cause misleading replies, unsafe links or inappropriate task suggestions. |
+| **Unauthorised access or changes** | Someone reads private cases, changes approved information or alters staff tasks. |
+| **Questions or follow-ups are lost** | Learners receive no help, while staff believe another person is handling the case. |
+| **Staff rely too heavily on AI drafts** | An inaccurate answer is approved without checking its sources or understanding the learner’s situation. |
+| **Offensive or biased replies** | Learners feel dismissed, receive unequal support or lose trust in the academy. |
+| **Outages, spam or excessive requests** | Learners cannot access help, and staff face growing queues and additional manual work. |
+
 Data I would keep out of AI tools and public files:
